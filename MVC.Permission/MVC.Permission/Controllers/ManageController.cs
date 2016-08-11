@@ -11,7 +11,7 @@ using MVC.Permission.Models;
 namespace MVC.Permission.Controllers
 {
     [Authorize]
-    public class ManageController : Controller
+    public class ManageController : Controller  
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
