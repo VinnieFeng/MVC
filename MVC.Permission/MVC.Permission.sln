@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Permission", "MVC.Permission\MVC.Permission.csproj", "{8BF2B5B8-BDDA-42EE-B867-2627C3C66CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Permission.Tests", "MVC.Permission.Tests\MVC.Permission.Tests.csproj", "{AA12F1E4-BA9E-4FE9-8E8B-4A3EECC9DE10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF2B5B8-BDDA-42EE-B867-2627C3C66CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF2B5B8-BDDA-42EE-B867-2627C3C66CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF2B5B8-BDDA-42EE-B867-2627C3C66CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF2B5B8-BDDA-42EE-B867-2627C3C66CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA12F1E4-BA9E-4FE9-8E8B-4A3EECC9DE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA12F1E4-BA9E-4FE9-8E8B-4A3EECC9DE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA12F1E4-BA9E-4FE9-8E8B-4A3EECC9DE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA12F1E4-BA9E-4FE9-8E8B-4A3EECC9DE10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
